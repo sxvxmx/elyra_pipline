@@ -1,0 +1,20 @@
+datasets:
+  titanic:
+    train: "datasets/titanic_train.csv"
+    test: "datasets/titanic_test.csv"
+  
+  horse:
+    train: "datasets/horse_surv_train.csv"
+    test: "datasets/horse_surv_test.csv"
+  
+  space_titanic:
+    train: "datasets/space_tit_train.csv"
+    test: "datasets/space_tit_test.csv"
+
+  software_defects:
+    train: "datasets/playground-series-s3e23/train.csv"
+    test: "datasets/playground-series-s3e23/test.csv"
+
+  hardness_moss:
+    train: "datasets/playground-series-s3e25/train.csv"
+    test: "datasets/playground-series-s3e25/test.csv"
